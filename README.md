@@ -1,7 +1,8 @@
 # Team
 
 ## Prof. Gergely Horvath|Ph.D.
-![Prof. Gergely Horvath](https://github.com/Blockchain-Network-Studies/team/blob/main/headshots/blockchainNetwork.jpg=250x250)
+<img src="https://github.com/Blockchain-Network-Studies/team/blob/main/headshots/blockchainNetwork.jpg" width="200" height="400" />
+
 
 
 ## Prof Luyao Zhang|Ph.D.
